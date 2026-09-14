@@ -1,0 +1,8 @@
+AİLE AKADEMİ — HTML / PWA KURULUMU
+
+1) İnternet üzerinden kullanmak için canlı uygulama bağlantısını açın.
+2) Android Chrome'da menü > Ana ekrana ekle seçeneğine dokunun. Uygulama telefonda ayrı bir uygulama gibi açılır.
+3) Bilgisayarda klasörü bir statik web sunucusuna yükleyebilirsiniz. Yerel dosyaya çift tıklamak yerine bir sunucu üzerinden açmak önerilir.
+4) Uygulama verileri varsayılan olarak yalnızca kullandığınız cihazın tarayıcısında saklanır. Dashboard içindeki Yedekle butonu ile JSON yedeği alınabilir.
+
+Bu paket native Android .apk değil, kurulum destekli HTML/PWA sürümüdür.
